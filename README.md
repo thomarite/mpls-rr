@@ -6,5 +6,4 @@ My laptop is running Debian 10 Testing, Intel i7 and 8GB RAM.
 
 This is the network diagram
 
-![](images/mpls-l3vpn-basic.png)
-# mpls-rr
+![](images/mpls-l3vpn-rr-load-balancing.png)
