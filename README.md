@@ -1,4 +1,6 @@
-This is a basic MPLS L3VPN network built in GNS3 to understand this technolgy. My first contact with MPLS was when I was studying my CCNP RS back in 2009. In the curriculum of CCNP in that time there was a brilliant lab that get you to the basics of building a MPLS L3VPN and that has always been my base since then.
+This is a MPLS L3VPN network with a RR PE router. The goal is how to load-balance traffic when having a RR.
+
+Initially we will see the normal behaviour (RR only advertise the best prefix) and then we will make change the RD for CUST-A in the TY-PEx to see how things change.
 
 This lab is built on c7200-adventerprisek9-mz.124-24.T2
 
